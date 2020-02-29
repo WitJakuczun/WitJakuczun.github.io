@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Lithium Theme</title>
-    <link>https://example.org/categories/</link>
+    <link>https://witjakuczun.github.io/categories/</link>
     <description>Recent content in Categories on Lithium Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://witjakuczun.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rstats</title>
-      <link>https://example.org/categories/rstats/</link>
+      <link>https://witjakuczun.github.io/categories/rstats/</link>
       <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/rstats/</guid>
+      <guid>https://witjakuczun.github.io/categories/rstats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rsuite</title>
-      <link>https://example.org/categories/rsuite/</link>
+      <link>https://witjakuczun.github.io/categories/rsuite/</link>
       <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/categories/rsuite/</guid>
+      <guid>https://witjakuczun.github.io/categories/rsuite/</guid>
       <description></description>
     </item>
     

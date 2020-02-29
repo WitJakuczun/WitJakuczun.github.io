@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Enterprise on Lithium Theme</title>
-    <link>https://example.org/tags/enterprise/</link>
+    <link>https://witjakuczun.github.io/tags/enterprise/</link>
     <description>Recent content in Enterprise on Lithium Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 09 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.org/tags/enterprise/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://witjakuczun.github.io/tags/enterprise/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Docker as R package management tool? Pros and cons.</title>
-      <link>https://example.org/2019/08/09/docker-as-r-package-management-tool-pros-and-cons./</link>
+      <link>https://witjakuczun.github.io/2019/08/09/docker-as-r-package-management-tool-pros-and-cons./</link>
       <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2019/08/09/docker-as-r-package-management-tool-pros-and-cons./</guid>
+      <guid>https://witjakuczun.github.io/2019/08/09/docker-as-r-package-management-tool-pros-and-cons./</guid>
       <description>Table of Contents  What is Docker? A Docker workflow for dummies What has happened with my ad-hoc installed packages? Why Dockerfile is preferred to image commits? Is Docker an answer for R packages dependency hell? Where should I develop my R code? What is a deployment procedure when you work with Docker? How does R Suite supports Docker?  Deployment without docker Building docker image for solution Support for custom images  Conclusion  What is Docker?</description>
     </item>
     
     <item>
       <title>Reproducibility with R? Tell me about your workflow first.</title>
-      <link>https://example.org/2019/08/09/reproducibility-with-r-tell-me-about-your-workflow-first./</link>
+      <link>https://witjakuczun.github.io/2019/08/09/reproducibility-with-r-tell-me-about-your-workflow-first./</link>
       <pubDate>Fri, 09 Aug 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.org/2019/08/09/reproducibility-with-r-tell-me-about-your-workflow-first./</guid>
+      <guid>https://witjakuczun.github.io/2019/08/09/reproducibility-with-r-tell-me-about-your-workflow-first./</guid>
       <description>Table of Contents
  Load packages  External packages Custom packages  This is blog post template  Call custom package Plot Extra text Emoticons Sysinfo   Load packages External packages library(data.table)  ## Warning: package &#39;data.table&#39; was built under R version 3.6.1  library(mgcv)  ## Warning: package &#39;mgcv&#39; was built under R version 3.6.1  ## Loading required package: nlme  ## Warning: package &#39;nlme&#39; was built under R version 3.</description>
     </item>
