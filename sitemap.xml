@@ -29,12 +29,6 @@
   </url>
   
   <url>
-    <loc>https://witjakuczun.github.io/</loc>
-    <lastmod>2019-08-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://witjakuczun.github.io/page/</loc>
     <lastmod>2016-05-05T21:48:51-07:00</lastmod>
     <priority>0</priority>
@@ -78,6 +72,12 @@
   
   <url>
     <loc>https://witjakuczun.github.io/tags/</loc>
+    <lastmod>2019-08-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://witjakuczun.github.io/</loc>
     <lastmod>2019-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
