@@ -1,10 +1,149 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on My New Hugo Site</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <title>Tags on Wit&#39;s notes</title>
+    <link>https://WitJakuczun.gihub.io/tags/</link>
+    <description>Recent content in Tags on Wit&#39;s notes</description>
+    <image>
+      <url>https://WitJakuczun.gihub.io/papermod-cover.png</url>
+      <link>https://WitJakuczun.gihub.io/papermod-cover.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jun 2022 10:24:12 +0200</lastBuildDate><atom:link href="https://WitJakuczun.gihub.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>etl</title>
+      <link>https://WitJakuczun.gihub.io/tags/etl/</link>
+      <pubDate>Wed, 01 Jun 2022 10:24:12 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/tags/etl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ml</title>
+      <link>https://WitJakuczun.gihub.io/tags/ml/</link>
+      <pubDate>Wed, 01 Jun 2022 10:24:12 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/tags/ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mlops</title>
+      <link>https://WitJakuczun.gihub.io/tags/mlops/</link>
+      <pubDate>Wed, 01 Jun 2022 10:24:12 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/tags/mlops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tool</title>
+      <link>https://WitJakuczun.gihub.io/tags/tool/</link>
+      <pubDate>Wed, 01 Jun 2022 10:24:12 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/tags/tool/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>configuration</title>
+      <link>https://WitJakuczun.gihub.io/tags/configuration/</link>
+      <pubDate>Fri, 20 May 2022 11:19:51 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/tags/configuration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://WitJakuczun.gihub.io/tags/linux/</link>
+      <pubDate>Fri, 20 May 2022 11:19:51 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>wsl</title>
+      <link>https://WitJakuczun.gihub.io/tags/wsl/</link>
+      <pubDate>Fri, 20 May 2022 11:19:51 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/tags/wsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>aiml</title>
+      <link>https://WitJakuczun.gihub.io/tags/aiml/</link>
+      <pubDate>Mon, 16 May 2022 08:55:03 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/tags/aiml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kedro version 18.0</title>
+      <link>https://WitJakuczun.gihub.io/tags/kedro-version-18.0/</link>
+      <pubDate>Mon, 16 May 2022 08:55:03 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/tags/kedro-version-18.0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kedro</title>
+      <link>https://WitJakuczun.gihub.io/tags/kedro/</link>
+      <pubDate>Sun, 24 Apr 2022 22:14:38 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/tags/kedro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>read</title>
+      <link>https://WitJakuczun.gihub.io/tags/read/</link>
+      <pubDate>Sun, 24 Apr 2022 14:19:29 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/tags/read/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>logitech mx mini keys</title>
+      <link>https://WitJakuczun.gihub.io/tags/logitech-mx-mini-keys/</link>
+      <pubDate>Sat, 23 Apr 2022 13:07:47 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/tags/logitech-mx-mini-keys/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>m1</title>
+      <link>https://WitJakuczun.gihub.io/tags/m1/</link>
+      <pubDate>Sat, 23 Apr 2022 13:07:47 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/tags/m1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>macos</title>
+      <link>https://WitJakuczun.gihub.io/tags/macos/</link>
+      <pubDate>Sat, 23 Apr 2022 13:07:47 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/tags/macos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tensorflow</title>
+      <link>https://WitJakuczun.gihub.io/tags/tensorflow/</link>
+      <pubDate>Sat, 23 Apr 2022 12:51:16 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/tags/tensorflow/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,19 +1,103 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Wit&#39;s notes</title>
+    <link>https://WitJakuczun.gihub.io/posts/</link>
+    <description>Recent content in Posts on Wit&#39;s notes</description>
+    <image>
+      <url>https://WitJakuczun.gihub.io/papermod-cover.png</url>
+      <link>https://WitJakuczun.gihub.io/papermod-cover.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 27 Aug 2021 11:53:11 +0200</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Jun 2022 10:24:12 +0200</lastBuildDate><atom:link href="https://WitJakuczun.gihub.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>http://example.org/posts/test/</link>
-      <pubDate>Fri, 27 Aug 2021 11:53:11 +0200</pubDate>
+      <title>Hamilton Framework for Creating Dataflows From Python Funcitons</title>
+      <link>https://WitJakuczun.gihub.io/posts/hamilton-framework-for-creating-dataflows-from-python-funcitons/</link>
+      <pubDate>Wed, 01 Jun 2022 10:24:12 +0200</pubDate>
       
-      <guid>http://example.org/posts/test/</guid>
-      <description>Test</description>
+      <guid>https://WitJakuczun.gihub.io/posts/hamilton-framework-for-creating-dataflows-from-python-funcitons/</guid>
+      <description>Thoughts on &lt;a href=&#34;https://github.com/stitchfix/hamilton&#34;&gt;Hamilton&lt;/a&gt; framework from Stichfix.</description>
+    </item>
+    
+    <item>
+      <title>Homebrew for Linux</title>
+      <link>https://WitJakuczun.gihub.io/posts/homebrew-for-linux/</link>
+      <pubDate>Fri, 20 May 2022 11:19:51 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/posts/homebrew-for-linux/</guid>
+      <description>Using Homebrew with Linux</description>
+    </item>
+    
+    <item>
+      <title>Tweaking Kedro&#39;s DataCatalog With Hooks and Runtime Script Args</title>
+      <link>https://WitJakuczun.gihub.io/posts/tweaking-kedro-catalog-with-hooks-and-runtime-script-args/</link>
+      <pubDate>Mon, 16 May 2022 08:55:03 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/posts/tweaking-kedro-catalog-with-hooks-and-runtime-script-args/</guid>
+      <description>How to augment Kedro&amp;rsquo;s DataCatalog using runtime script args?&amp;quot;</description>
+    </item>
+    
+    <item>
+      <title>Running Kedro Pipelines in Parallel for Different Datasets or Params</title>
+      <link>https://WitJakuczun.gihub.io/posts/running-kedro-pipelines-in-parallel-for-different-datasets-or-params/</link>
+      <pubDate>Sun, 24 Apr 2022 22:14:38 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/posts/running-kedro-pipelines-in-parallel-for-different-datasets-or-params/</guid>
+      <description>How to run kedro pipeline on different  partitions of a dataset. For example build forecasting models for each SKU.</description>
+    </item>
+    
+    <item>
+      <title>Article   Hyperparameter Optimization: Foundations, Algorithms, Best Practices and Open Challenges</title>
+      <link>https://WitJakuczun.gihub.io/posts/article-hyperparameter-optimization-foundations-algorithms-best-practices-and-open-challenges/</link>
+      <pubDate>Sun, 24 Apr 2022 14:19:29 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/posts/article-hyperparameter-optimization-foundations-algorithms-best-practices-and-open-challenges/</guid>
+      <description>Survey article on hyperparameter optimization for ML</description>
+    </item>
+    
+    <item>
+      <title>Feathr Feature Store</title>
+      <link>https://WitJakuczun.gihub.io/posts/feathr-feature-store/</link>
+      <pubDate>Sun, 24 Apr 2022 14:07:36 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/posts/feathr-feature-store/</guid>
+      <description>Exploring feathr feature store</description>
+    </item>
+    
+    <item>
+      <title>MacOs with Logi MX Keys Mini</title>
+      <link>https://WitJakuczun.gihub.io/posts/maos-with-logi-mx-keys-mini/</link>
+      <pubDate>Sat, 23 Apr 2022 13:07:47 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/posts/maos-with-logi-mx-keys-mini/</guid>
+      <description>How to switch fn with left control with logitech mx keys mini under macos.</description>
+    </item>
+    
+    <item>
+      <title>My Brew Packages</title>
+      <link>https://WitJakuczun.gihub.io/posts/my-brew-packages/</link>
+      <pubDate>Sat, 23 Apr 2022 13:07:47 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/posts/my-brew-packages/</guid>
+      <description>How to backup and restore brew packages in your macos.</description>
+    </item>
+    
+    <item>
+      <title>MacOS Tile Managment With Amethyst</title>
+      <link>https://WitJakuczun.gihub.io/posts/macos-tile-managment-with-amethyst/</link>
+      <pubDate>Sat, 23 Apr 2022 13:05:47 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/posts/macos-tile-managment-with-amethyst/</guid>
+      <description>Making MacOS productive with amethyst tile windows manager</description>
+    </item>
+    
+    <item>
+      <title>Configure Tensorflow for M1 Pro</title>
+      <link>https://WitJakuczun.gihub.io/posts/configure-tensorflow-for-m1-pro/</link>
+      <pubDate>Sat, 23 Apr 2022 12:51:16 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/posts/configure-tensorflow-for-m1-pro/</guid>
+      <description>How to configure TensorFlow to work with M1 Pro</description>
     </item>
     
   </channel>

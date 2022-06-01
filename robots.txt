@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://WitJakuczun.gihub.io/sitemap.xml

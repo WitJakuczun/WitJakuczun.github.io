@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>kedro on Wit&#39;s notes</title>
+    <link>https://WitJakuczun.gihub.io/tags/kedro/</link>
+    <description>Recent content in kedro on Wit&#39;s notes</description>
+    <image>
+      <url>https://WitJakuczun.gihub.io/papermod-cover.png</url>
+      <link>https://WitJakuczun.gihub.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 24 Apr 2022 22:14:38 +0200</lastBuildDate><atom:link href="https://WitJakuczun.gihub.io/tags/kedro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Running Kedro Pipelines in Parallel for Different Datasets or Params</title>
+      <link>https://WitJakuczun.gihub.io/posts/running-kedro-pipelines-in-parallel-for-different-datasets-or-params/</link>
+      <pubDate>Sun, 24 Apr 2022 22:14:38 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/posts/running-kedro-pipelines-in-parallel-for-different-datasets-or-params/</guid>
+      <description>How to run kedro pipeline on different  partitions of a dataset. For example build forecasting models for each SKU.</description>
+    </item>
+    
+  </channel>
+</rss>

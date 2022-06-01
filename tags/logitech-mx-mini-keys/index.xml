@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>logitech mx mini keys on Wit&#39;s notes</title>
+    <link>https://WitJakuczun.gihub.io/tags/logitech-mx-mini-keys/</link>
+    <description>Recent content in logitech mx mini keys on Wit&#39;s notes</description>
+    <image>
+      <url>https://WitJakuczun.gihub.io/papermod-cover.png</url>
+      <link>https://WitJakuczun.gihub.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 23 Apr 2022 13:07:47 +0200</lastBuildDate><atom:link href="https://WitJakuczun.gihub.io/tags/logitech-mx-mini-keys/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MacOs with Logi MX Keys Mini</title>
+      <link>https://WitJakuczun.gihub.io/posts/maos-with-logi-mx-keys-mini/</link>
+      <pubDate>Sat, 23 Apr 2022 13:07:47 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/posts/maos-with-logi-mx-keys-mini/</guid>
+      <description>How to switch fn with left control with logitech mx keys mini under macos.</description>
+    </item>
+    
+    <item>
+      <title>MacOS Tile Managment With Amethyst</title>
+      <link>https://WitJakuczun.gihub.io/posts/macos-tile-managment-with-amethyst/</link>
+      <pubDate>Sat, 23 Apr 2022 13:05:47 +0200</pubDate>
+      
+      <guid>https://WitJakuczun.gihub.io/posts/macos-tile-managment-with-amethyst/</guid>
+      <description>Making MacOS productive with amethyst tile windows manager</description>
+    </item>
+    
+  </channel>
+</rss>
